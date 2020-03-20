@@ -23,3 +23,5 @@ fields:
     required: false
   label: menu
   description: 'menu optional: main, side, footer'
+pages:
+- content/post/migrate-from-jekyll.md
