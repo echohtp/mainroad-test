@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2020-03-20T07:00:00Z
-draft = true
 tags = []
 thumbnail = ""
 title = "This is an update to test"
