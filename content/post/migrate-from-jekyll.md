@@ -5,10 +5,7 @@ linktitle: Migrating from Jekyll
 thumbnail: ''
 tags: []
 categories: []
-menu:
-  main:
-    name: Jekyll migration
-    weight: 10
+menu: footer
 
 ---
 ## Move static content to `static`
