@@ -24,4 +24,5 @@ fields:
   label: menu
   description: 'menu optional: main, side, footer'
 pages:
+- content/post/goisforlovers.md
 - content/post/migrate-from-jekyll.md
