@@ -17,3 +17,9 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: menu
+  type: text
+  config:
+    required: false
+  label: menu
+  description: 'menu optional: main, side, footer'
