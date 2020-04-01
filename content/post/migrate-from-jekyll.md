@@ -5,7 +5,8 @@ linktitle: Migrating from Jekyll
 thumbnail: ''
 tags: []
 categories: []
-menu: footer
+menu:
+  footer: {}
 
 ---
 ## Move static content to `static`
